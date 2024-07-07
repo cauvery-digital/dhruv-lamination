@@ -1,0 +1,5 @@
+Host : idcard99.in
+user : nfcidcar_mastercard
+password : mas@card99RD
+
+/public_html
